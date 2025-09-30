@@ -8,6 +8,7 @@ A simple program for rolling dices that uses a similiar layout to neofetch.
 **Future support for:**
 - Linux
 - Haiku
+- Nintendo 3DS
 - FreeBSD
 - more
 

@@ -1,4 +1,5 @@
 ![VirtualDice](https://github.com/pizzawizard32/VirtualDice/blob/main/virtualdice.png?raw=true)
+
 A simple program for rolling dices that uses a similiar layout to neofetch.
 
 ## Supported OSes

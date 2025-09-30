@@ -1,2 +1,14 @@
 # VirtualDice
-A simple program for rolling dices on Windows 2000 and higher
+A simple program for rolling dices that uses a similiar layout to neofetch.
+
+## Supported OSes
+- Windows NT (2000 and higher)
+
+**Future support for:**
+- Linux
+- Haiku
+- FreeBSD
+- more
+
+## Credits
+color-console (color.hpp): aafulei

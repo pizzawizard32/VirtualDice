@@ -12,6 +12,12 @@ A simple program for rolling dices that uses a similiar layout to neofetch.
 - FreeBSD
 - more
 
+## What's new? (1.1.0)
+```diff
++ Added custom number limit
+- Removed number rating
+```
+
 ## Compilation
 This is a tutorial of how to compile the program as I found out myself that the already compiled program on Windows 2000 is broken:
 - `git clone` the source code:

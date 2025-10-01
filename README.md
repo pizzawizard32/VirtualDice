@@ -19,7 +19,7 @@ A simple program for rolling dices that uses a similiar layout to neofetch.
 ```
 
 ## Compilation
-This is a tutorial of how to compile the program as I found out myself that the already compiled program on Windows 2000 is broken:
+This is a tutorial of how to compile the program as I found out myself that the already compiled programs can be broken:
 - `git clone` the source code:
   ```cmd
   git clone https://github.com/pizzawizard32/VirtualDice

@@ -3,7 +3,7 @@
 A simple program for rolling dices that uses a similiar layout to neofetch.
 
 ## Supported OSes
-- Windows NT (tested on Windows 2000 and higher, lmk if it works on older Windows)
+- Windows
 
 **Future support for:**
 - Linux

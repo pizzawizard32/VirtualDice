@@ -15,13 +15,19 @@ A simple program for rolling dices that uses a similiar layout to neofetch.
 ## Compilation
 This is a tutorial of how to compile the program as I found out myself that the already compiled program on Windows 2000 is broken:
 - `git clone` the source code:
-  ```sh
+  ```cmd
   git clone https://github.com/pizzawizard32/VirtualDice
   ```
 - Compile `main.cc` with MinGW, install it if you haven't.
-  ```sh
+  ```cmd
   g++ main.cc
   ```
+- Rename the program from `a.exe` to `dice.exe`
+  ```cmd
+  ren a.exe dice.exe
+  ```
+- Set it as your PATH
+- You're done and ready to run VirtualDice 1.1.0! :D (no its not a factorial number sorry)
 
 ## Credits
 color-console (color.hpp): aafulei

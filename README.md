@@ -12,7 +12,7 @@ A simple program for rolling dices that uses a similiar layout to neofetch.
 - FreeBSD
 - more
 
-## What's new? (1.1.0-beta)
+## What's new? (1.1.0)
 ```diff
 + Added custom number limit
 - Removed number rating

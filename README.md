@@ -32,7 +32,7 @@ This is a tutorial of how to compile the program as I found out myself that the 
   ```cmd
   ren a.exe dice.exe
   ```
-- Set it as your PATH
+- Set it to your PATH
 - You're done and ready to run VirtualDice 1.1.0! :D (no its not a factorial number sorry)
 
 ## Credits

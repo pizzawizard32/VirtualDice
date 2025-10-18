@@ -22,7 +22,7 @@ A simple program for rolling dices that uses a similiar layout to neofetch.
 This is a tutorial of how to compile the program as I found out myself that the already compiled programs can be broken:
 - `git clone` the source code:
   ```cmd
-  git clone https://github.com/pizzawizard32/VirtualDice
+  git clone https://github.com/soupware-dev/VirtualDice
   ```
 - Compile `main.cc` with MinGW, install it if you haven't.
   ```cmd
